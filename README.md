@@ -13,7 +13,7 @@ I’m an experienced **Azure Data Engineer** with over **5 years in IT**, specia
 * Cloud Infrastructure Management and CI/CD automation
 * Big Data Processing using **PySpark** and **SQL**
 
-My goal is to design **secure, scalable, and optimized cloud data pipelines** that drive insights and efficiency.
+Designing **secure, scalable, and optimized cloud data pipelines** that drive insights.
 
 ---
 
@@ -26,7 +26,7 @@ Azure (ADF, ADLS Gen2, Databricks, Synapse, Key Vault, Azure DevOps)
 Python, PySpark, SQL
 
 **Databases:**
-SQL Server, Oracle, MySQL
+SQL Server, MySQL
 
 **Other Tools:**
 Power BI, Git, ARM Templates, Azure Monitor
