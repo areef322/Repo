@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Areef Baig
+# 👋 Hi, I'm Mohammad Areef 
 
 🚀 **Azure Data Engineer | Cloud Specialist | Certified Azure Administrator (AZ-104) & Databricks Data Engineer Associate**
 
